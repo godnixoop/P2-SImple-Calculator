@@ -1,1 +1,1 @@
-# P2-SImple-Calculator
+# P2-Simple-Calculator
